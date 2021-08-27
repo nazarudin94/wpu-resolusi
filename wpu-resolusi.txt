@@ -5,5 +5,5 @@ membuat startup
 
 membuat website
 - belajar php dasar
-- belajar css
+- menambah html
 membuat struktur data dasar
