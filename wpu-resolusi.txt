@@ -2,6 +2,8 @@ nazarudin resulusi untuk bisa jago ngoding
 lulus magister dan lanjut S3
 membuat startup
 - belajar html dasar
+
 membuat website
 - belajar php dasar
+- belajar css
 membuat struktur data dasar
